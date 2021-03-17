@@ -1,12 +1,13 @@
 <p id="day-001"><p>
 
-<a href=#table-of-contents>![Quote Generator](Assets/inter-day-001.png)</a> 
+<a href=#table-of-contents>![Quote Generator](Assets/inter-001-quote-generator.png)</a> 
 
 #
 <p id="table-of-contents"><p>
 
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>  
 
+- [100 Days of Code](#100)
 - [Background](#background) 
 - [Technologies](#technologies) 
 - [Getting Started](#getting-started) 
@@ -16,6 +17,15 @@
 - [Demo](#demo)
 - [Resources](#resources)
 - [Let's Connect!](#lets-connect) 
+
+#
+
+<p id="100days"><p>
+
+<a href=#table-of-contents>![#100DaysOfCode](Assets/inter-#100.png)</a>  
+
+test\
+test
 
 #
 
