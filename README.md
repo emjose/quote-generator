@@ -3,6 +3,7 @@
 <a href=#table-of-contents>![Quote Generator](Assets/inter-001-quote-generator.png)</a> 
 
 #
+
 <p id="table-of-contents"><p>
 
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>  
