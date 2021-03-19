@@ -2,6 +2,8 @@
 
 <a href=#table-of-contents>![Quote Generator](Assets/inter-001-quote-generator.png)</a> 
 
+![Quote Generator](Assets/preview-001-quote-generator.jpg)
+
 #
 
 <p id="table-of-contents"><p>
