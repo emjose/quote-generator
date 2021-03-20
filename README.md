@@ -2,7 +2,7 @@
 
 <a href=#table-of-contents>![Quote Generator](Assets/inter-001-quote-generator.png)</a> 
 
-<a href="https://emjose.github.io/quote-generator/">![Quote Generator](Assets/preview-001-quote-generator.jpg)</a> 
+<a href="https://emjose.github.io/quote-generator/">![Quote Generator](Assets/preview-001-quote-generator.png)</a> 
 
 #
 
