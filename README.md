@@ -1,6 +1,17 @@
+<p id="header"><p>
+<table><tr>
+<td> <a href=#header><img src="Assets/header-left-gray.png" alt="previous" style="width: 200px;"/></a> </td>
+<td> <a href=#header><img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
+<td> <a href="https://github.com/emjose/color-flipper/#header"><img src="Assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
+</tr></table>
+
+<br>
+
 <p id="project-title"><p>
 
 <a href=#table-of-contents>![Quote Generator](Assets/inter-001-quote-generator.png)</a> 
+
+<br>
 
 <a href="https://emjose.github.io/quote-generator/">![Quote Generator](Assets/preview-001-quote-generator.png)</a> 
 
@@ -61,4 +72,4 @@ test
 
 #
 
-<a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a> 
+<a href=#header>![Back to Top](Assets/inter-congrats.png)</a> 
