@@ -41,15 +41,11 @@
 
 <a href=#table-of-contents>![Installation](Assets/inter-installation.png)</a>
 
-Using the Terminal, `git clone` and `cd` into the repo folder.
+1. Using the Terminal, `git clone` and `cd` into the repo folder.
 ``` 
 git clone git@github.com:emjose/quote-generator.git && cd quote-generator 
 ```
-**OPTIONAL:** After `cd`-ing into the repo folder, open in VS Code.
-```
-code .
-```
-Run the command:
+2. Run the command:
 ```
 open index.html
 ```
