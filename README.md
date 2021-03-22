@@ -41,7 +41,18 @@
 
 <a href=#table-of-contents>![Installation](Assets/inter-installation.png)</a>
 
-<a href=#installation>![under construction](Assets/lorem-text.png)</a>
+Using the Terminal, `git clone` and `cd` into the repo folder.
+``` 
+git clone git@github.com:emjose/quote-generator.git && cd quote-generator 
+```
+**OPTIONAL:** After `cd`-ing into the repo folder, open in VS Code.
+```
+code .
+```
+Run the command:
+```
+open index.html
+```
 
 #
 
@@ -49,7 +60,7 @@
 
 <a href=#table-of-contents>![Demos](Assets/inter-demo.png)</a>  
 
-<a href=#demo>![under construction](Assets/lorem-text.png)</a>
+<a href="https://emjose.github.io/quote-generator/">![under construction](Assets/lorem-demo.png)</a>
 
 #
 
