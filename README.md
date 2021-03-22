@@ -41,11 +41,11 @@
 
 <a href=#table-of-contents>![Installation](Assets/inter-installation.png)</a>
 
-1. Using the Terminal, `git clone` and `cd` into the repo folder.
+#### Using the Terminal, `git clone` and `cd` into the repo folder.
 ``` 
 git clone git@github.com:emjose/quote-generator.git && cd quote-generator 
 ```
-2. Run the command:
+#### Run the command:
 ```
 open index.html
 ```
