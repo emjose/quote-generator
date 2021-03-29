@@ -34,7 +34,11 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 1: February 2, 2021
+
+- I'm excited to start the <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> Challenge!
+  
+- My Day 1 mini project is a quote generator with <a href="https://twitter.com/home">Twitter</a> integration, from the <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/">ZTM JavaScript Web Projects</a> Udemy course.
 
 #
 
@@ -50,6 +54,7 @@ git clone git@github.com:emjose/quote-generator.git && cd quote-generator
 ```
 open index.html
 ```
+#### If you have a <a href="https://twitter.com/home">Twitter</a> account, log in to your account to tweet quotes.
 
 #
 
@@ -57,7 +62,7 @@ open index.html
 
 <a href="https://emjose.github.io/quote-generator/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/quote-generator/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/quote-generator/">![Live Site](Assets/001-quotes.gif)</a>
 
 #
 
@@ -65,7 +70,13 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Google Fonts](https://fonts.google.com/)
+
+- #### [Inspirational Quotes API](https://quotes-react.netlify.app/)
+
+- #### [Hero Patterns: Repeatable Background Patterns](http://www.heropatterns.com/)
+
+- #### [JavaScript Web Projects: 20 Projects to Build Your Portfolio Udemy Course](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
 
 #
 
