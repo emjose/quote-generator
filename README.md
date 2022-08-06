@@ -37,6 +37,7 @@
 ### Day 1: February 2, 2021
 
 -   I'm excited to start the <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> Challenge!
+
 -   My Day 1 mini project is a quote generator with <a href="https://twitter.com/home">Twitter</a> integration, from the <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/">ZTM JavaScript Web Projects</a> Udemy course.
 
 #
@@ -47,13 +48,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/quote-generator.git && cd quote-generator
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
