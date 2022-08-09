@@ -58,7 +58,7 @@ git clone git@github.com:emjose/quote-generator.git && cd quote-generator
 open index.html
 ```
 
-#### If you have a <a href="https://twitter.com/home">Twitter</a> account, log in to your account to tweet quotes.
+#### 3. If you have a <a href="https://twitter.com/home">Twitter</a> account, log in to your account to tweet quotes.
 
 #
 
