@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -39,6 +41,10 @@
 -   I'm excited to start the <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> Challenge!
 
 -   My Day 1 mini project is a quote generator with <a href="https://twitter.com/home">Twitter</a> integration, from the <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/">ZTM JavaScript Web Projects</a> Udemy course.
+
+-   **September 2022 Update:** For accessibility, lighter colors were changed to darker hues.
+
+<br>
 
 #
 
@@ -60,6 +66,8 @@ open index.html
 
 #### 3. If you have a <a href="https://twitter.com/home">Twitter</a> account, log in to your account to tweet quotes.
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -68,11 +76,19 @@ open index.html
 
 <a href="https://emjose.github.io/quote-generator/">![Live Site](Assets/001-quotes.gif)</a>
 
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** is responsive and keyboard-navigable.
+
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
+
 #
 
 <p id="resources"><p>
 
 <a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
+
+-   #### [Font Awesome](https://fontawesome.com/)
 
 -   #### [Google Fonts](https://fonts.google.com/)
 
@@ -83,6 +99,8 @@ open index.html
 -   #### [JavaScript Web Projects: 20 Projects to Build Your Portfolio Udemy Course](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
