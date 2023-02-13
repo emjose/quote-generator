@@ -88,7 +88,7 @@ open index.html
 
 • The **[Quote Generator](https://emjose.github.io/quote-generator/)** is responsive and keyboard-navigable.
 
-• The **[Quote Generator](https://emjose.github.io/quote-generator/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps), providing users with a fast and reliable experience, even when offline or with limited network connectivity.
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** is an installable [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps), providing users with a fast and reliable experience, even when offline or with limited network connectivity.
 
 <br>
 
