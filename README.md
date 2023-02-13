@@ -84,7 +84,7 @@ open index.html
 
 • The **[Quote Generator](https://emjose.github.io/quote-generator/)** fetches data from the [type.fit](https://type.fit/api/quotes) Inspirational Quotes API to provide a wide range of quotes for users to choose from.
 
-• The **[Quote Generator](https://emjose.github.io/quote-generator/)** has Twitter integration, which allows users to easily share their favorite quotes with their followers on Twitter.
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** has [Twitter](https://twitter.com/home) integration, which allows users to share their favorite quotes on the platform.
 
 • The **[Quote Generator](https://emjose.github.io/quote-generator/)** is responsive and keyboard-navigable.
 
