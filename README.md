@@ -80,9 +80,15 @@ open index.html
 
 <a href="https://emjose.github.io/quote-generator/">![Live Site](Assets/001-quotes.gif)</a>
 
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** is a web application that provides users with inspirational quotes at the press of a button.
+
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** fetches data from the [type.fit](https://type.fit/api/quotes) Inspirational Quotes API to provide a wide range of quotes for users to choose from.
+
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** has Twitter integration, which allows users to easily share their favorite quotes with their followers on Twitter.
+
 • The **[Quote Generator](https://emjose.github.io/quote-generator/)** is responsive and keyboard-navigable.
 
-• The **[Quote Generator](https://emjose.github.io/quote-generator/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+• The **[Quote Generator](https://emjose.github.io/quote-generator/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps), providing users with a fast and reliable experience, even when offline or with limited network connectivity.
 
 <br>
 
